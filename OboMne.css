@@ -1,0 +1,71 @@
+body {
+  background-color: #ffddc7;
+}
+
+a {
+
+}
+
+.NaviBlock {
+  width: 1000px;
+  background-color: orange;
+  box-shadow: 1px 2px 2px 3px black;
+  margin-left: 400px;
+  border-radius: 5px;
+}
+
+.MainBlock {
+  width: 1000px;
+  height: 650px;
+  background-color: white;
+  box-shadow: 1px 2px 2px 3px black;
+  margin-left: 400px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+.NaviImg {
+  width: 125px;
+  height: 125px;
+  margin-top: 25px;
+  margin-left: 200px;
+}
+
+.NaviTxt {
+  color: white;
+  font-family: sans-serif;
+  text-shadow: black 1px 1px 2px;
+  display: inline-block;
+  font-size: 60px;
+  margin-left: 100px;
+}
+
+
+.MainTxt {
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-left: 350px;
+}
+
+.MainText {
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.Nets {
+  font-family: sans-serif;
+  display: inline-block;
+  font-size: 25px;
+  margin-left: 15px;
+}
+
+.AfterTxt {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
